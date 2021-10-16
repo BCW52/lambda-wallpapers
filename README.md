@@ -33,11 +33,16 @@ Finally, do not forget to support the original creators of these artworks.
 The **Neofetch** category contains `1:1` images that should work well with [neofetch](https://github.com/dylanaraps/neofetch) as an image source.
 
 Neofetch screenshots:
-- <img src="./assets/neofetch1.png"/>
-- <img src="./assets/neofetch2.png"/>
-- <img src="./assets/neofetch3.png"/>
-- <img src="./assets/neofetch4.png"/>
-- <img src="./assets/neofetch5.png"/>
+
+<img src="./assets/neofetch1.png"/>
+
+<img src="./assets/neofetch2.png"/>
+
+<img src="./assets/neofetch3.png"/>
+
+<img src="./assets/neofetch4.png"/>
+
+<img src="./assets/neofetch5.png"/>
 
 ## Credits and Sources
 
