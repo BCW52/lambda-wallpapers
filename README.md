@@ -1,4 +1,4 @@
-<h1 align="center"> Personal Wallpapers </h1>
+<h1 align="center"> Wallpapers </h1>
 <img src="./assets/banner.png" slt="lambda wallpapers"/>
 
 This repository has been created solely for personal use. That means I won't be accepting any pull requests. But you are free to use them however, you want.
