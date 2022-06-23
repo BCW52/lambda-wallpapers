@@ -33,3 +33,5 @@ logo filter=lfs diff=lfs merge=lfs -text
 geometry filter=lfs diff=lfs merge=lfs -text
 painting filter=lfs diff=lfs merge=lfs -text
 foggy filter=lfs diff=lfs merge=lfs -text
+fauna filter=lfs diff=lfs merge=lfs -text
+pixel filter=lfs diff=lfs merge=lfs -text
